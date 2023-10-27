@@ -1,0 +1,36 @@
+/* Your CSS file */
+.testimonials-container {
+  background-color: #f8f9fa;
+}
+
+.testimonial {
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  transition: transform 0.2s;
+}
+
+.testimonial:hover {
+  transform: scale(1.05);
+}
+
+.user-avatar {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  margin: 0 auto 10px;
+}
+
+.testimonials-container h4 {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.testimonials-container p {
+  font-size: 1.2rem;
+  color: #666;
+  margin: 0;
+}

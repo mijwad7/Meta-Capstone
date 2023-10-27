@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+.navbar .navbar-nav .nav-link {
+  margin-right: 2vw;
+}
+.active {
+  color: #FF5733; /* Change to the desired active link color */
+}
+
+/* Your CSS file */
+.about-container {
+  background-color: #f8f9fa;
+  text-align: justify;
+}
+
+.about-image-container {
+  margin-bottom: 20px;
+}
+
+.about-pic {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.lemon-primary-lemon {
+  color: #ffce29;
+  font-size: 3.5rem;
+  font-family: 'Markazi';
+}
+
+.lemon-primary-dark {
+  color: rgb(73, 94, 87);
+  font-size: 2.8rem;
+  font-family: 'Markazi';
+}
+
+.pd {
+  padding: 0 20px;
+}
