@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Little Lemon Restaurant App
+
+This is a web app made with REact, for a restaurant. It allows users to look the restaurant's menu, and check the reservations to book a table. It uses an API to facilitate the table booking process.
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
