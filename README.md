@@ -1,6 +1,6 @@
 # Little Lemon Restaurant App
 
-This is a web app made with REact, for a restaurant. It allows users to look the restaurant's menu, and check the reservations to book a table. It uses an API to facilitate the table booking process.
+This is a web app made with React, for a restaurant. It allows users to look the restaurant's menu, and check the reservations to book a table. It uses an API to facilitate the table booking process.
 
 
 ## Getting Started with Create React App
